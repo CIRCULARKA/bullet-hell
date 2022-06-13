@@ -1,0 +1,17 @@
+html, body {
+    background-image: url("../resources/backgrounds/dimmed.gif");
+    height: 100%;
+    overflow: hidden;
+}
+
+.game-area {
+    display: block;
+    position: relative;
+    height: 100%;
+}
+
+.ship {
+    display: inline;
+    position: absolute;
+    bottom: 20px;
+}
